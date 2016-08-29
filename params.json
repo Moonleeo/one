@@ -1,6 +1,6 @@
 {
   "name": "One",
   "tagline": "第一个存储库",
-  "body": "### Welcome to GitHub Pages.\r\n\r\nclass HelloWorld{\r\n   public static void  main(String[] args){\r\n   System.out.println(\"HelloWold !\");\r\n}\r\n}\r\n\r\n这是我们学习编程的第一个程序 HelloWorld - 你好世界 !",
+  "body": "### Welcome to GitHub Pages.\r\n\r\n1. class HelloWorld{\r\n1.    public static void  main(String[] args){\r\n1.    System.out.println(\"Hello,World !\");\r\n1. }\r\n1. }\r\n\r\n这是我们学习编程的第一个程序 HelloWorld - 你好世界 !",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
